@@ -1,0 +1,11 @@
+Model Information:
+* title:	Diver Model
+* source:	https://sketchfab.com/3d-models/diver-model-614e9e2988e2441d946f9e8057b99605
+* author:	LakeheadAnthropology (https://sketchfab.com/LakeheadAnthropology)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Diver Model" (https://sketchfab.com/3d-models/diver-model-614e9e2988e2441d946f9e8057b99605) by LakeheadAnthropology (https://sketchfab.com/LakeheadAnthropology) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
